@@ -1,13 +1,24 @@
 # event-tracker
 
-Installation
 
-I. First install all the dependencies of the projest using yarn :
+## Getting Started
 
+### Installation
+
+I. First install all the dependencies of the projest using `yarn` :
+
+```sh
 yarn
+```
+
 II. Run the project
 
-react-native run-ios
+```sh
+yarn ios
+```
+
 or
 
-react-native run-android
+```sh
+yarn android
+```
